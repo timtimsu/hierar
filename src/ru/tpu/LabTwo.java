@@ -1,8 +1,8 @@
 package ru.tpu;
 
-public class Main {
+public class LabTwo {
 
     public static void main(String[] args) {
-	// write your code here
+        System.out.println("Lab two");
     }
 }
